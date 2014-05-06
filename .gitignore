@@ -1,0 +1,23 @@
+# Compiler files
+*.o
+*.d
+*.class
+ImplKind
+ImplType
+
+# Executables
+*.exe
+*.out
+
+# Temp files
+*~
+
+# Ignore ModelSim generated
+*.v.bak
+
+# IntelliJ Idea
+.iws
+workspace.xml
+tasks.xml
+
+*.hi
